@@ -5,7 +5,17 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: f6c61c02c0f6d0f4b804e084448e1a3c
+  - enabled: 1
+    path: Assets/Scenes/TmpMenu.unity
+    guid: 548c8fa35edc1b349a9163aa964bddbf
+  - enabled: 1
+    path: Assets/Scenes/TmpGame.unity
+    guid: 0f75ec04c74fe5f4e8b437d08f466289
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
